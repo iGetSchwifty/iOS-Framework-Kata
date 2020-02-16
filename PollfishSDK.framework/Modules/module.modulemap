@@ -1,0 +1,11 @@
+framework module PollfishSDK {
+  umbrella header "PollfishSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module PollfishSDK.Swift {
+    header "PollfishSDK-Swift.h"
+    requires objc
+}
