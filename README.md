@@ -1,4 +1,4 @@
-# Pollfish SDK
+# Mock Pollfish SDK
 
 This is a coding kata to demonstrate the ability to show a screen over generic iOS applications
 
